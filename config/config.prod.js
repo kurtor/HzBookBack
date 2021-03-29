@@ -23,19 +23,13 @@ module.exports = appInfo => {
     // myAppName: 'egg',
   };
 
-  config.view = {
-    mapping:{
-      '.html':'ejs'
-    },
-  };
-
   config.sequelize = {
     dialect: "mysql",
     host: "127.0.0.1",
     port: "3306",
     user: "root",
     password: "123456",
-    database: "book_list",
+    database: "HzBook",
     baseDir: "model",
     underscored: true,
     timezone: '+08:00'
@@ -43,24 +37,14 @@ module.exports = appInfo => {
 
   config.security = {
     csrf:{
-      enable: false,
-      ignoreJSON: true
-    },
-    domainWhiteList:['http://localhost:8080','http://192.168.1.17:8000/']
-  };
-  
-  config.cors = {
-    origin: '*',
-    allowMethod: 'GET,HEAD,PUT,POST,DELETE,PATCH'
+     ignore:['/api/login','/api/register']
+    }
   };
 
   config.passportJwt = {
     secret: 'wouiyigeffuwjd666ffuwbfl;q;',
   };
 
-  config.bcrypt = {
-    saltRounds: 10 // default 10
-  };
 
   return {
     ...config,
