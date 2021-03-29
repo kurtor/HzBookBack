@@ -111,7 +111,7 @@ class BookService extends Service {
             case 'all': 
                 break;
             case 'new':
-                findOrder = [['book_create_time', 'DESC']]
+                findOrder = [['id', 'DESC']]
                 break;
             case 'choice':
                 findWhere = { choice: true}
