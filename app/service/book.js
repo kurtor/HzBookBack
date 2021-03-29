@@ -156,6 +156,8 @@ class BookService extends Service {
                         main_img: book_item["main_img"],
                         content:book_item["content"],
                         classification: book_item["classification"],
+                        choice: book_item["choice"],
+                        home_tag: book_item["home_tag"],
                         createAt: new Date(),
                         updateAt: new Date(),
                     }, { transaction: t })

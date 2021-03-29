@@ -176,6 +176,7 @@
 		"main_img": "mainImg/cai_fu_shi_ru_he_chuang_zao_de.jpg",
 		"content": "本书收录了财富是如何创造的、财富是如何衡量的、我所认识的经济学、市场经济下的道德问题、中国人的道德前景等讲演稿。",
 		"classification": "经济类",
+		"home_tag":"首页推荐",
 		"borrow_info": [
 			{
 				"real_version": {
@@ -461,6 +462,7 @@
 		"main_img": "mainImg/ju_ying_guo.jpg",
 		"content": "在本书中，作者透彻地呈现和分析了巨婴的全能自恋心理，而此心理即集体主义和愚孝的深层心理机制，这样的心理机制下，催生了中国好人、控制狂、被迫害妄想、无助感、不安全感、躁狂抑郁等一系列当下普遍存在的心理问题。",
 		"classification": "心理类",
+		"home_tag":"成长品读",
 		"borrow_info": [
 			{
 				"real_version": {
@@ -2957,6 +2959,7 @@
 		"main_img": "mainImg/su_fei_de_shi_jie.jpg",
 		"content": "本书讲述了：14岁的少女苏菲不断接到一些极不寻常的来信，世界像谜团一般在她眼底展开，她在一位神秘导师的指引下，苏菲开始思索，从苏格拉底、柏拉图到达尔文、弗洛伊德等哲学大师所思考的根本问题。苏菲运用少女天生的悟性与后天知识，企图解开这些谜团，然而，事实真相远比她所想的更怪异、更离奇。",
 		"classification": "哲学类",
+		"home_tag":"成长品读",
 		"borrow_info": [
 			{
 				"real_version": {
@@ -4812,6 +4815,7 @@
 		"main_img": "mainImg/ren_sheng_de_zhi_hui.jpg",
 		"content": "本书作者从世俗的角度，对人生应该遵循的原则进行了探讨，用冷静睿智、诙谐优雅的必出告诉我们如何才能幸福地度过一生。",
 		"classification": "哲学类",
+		"home_tag":"人生百态",
 		"borrow_info": [
 			{
 				"real_version": {
@@ -5699,6 +5703,7 @@
 		"main_img": "mainImg/wan_wan_mei_xiang_dao.jpg",
 		"content": "本书作者擅长以“理工科思维”为导向，以前沿的科学视角解读生活，涉及行为经济学、认知心理学、社会学、统计学、物理学等众多学科，为人们提供了认识世界的新方法，破除了认知上的重重迷思。",
 		"classification": "哲学类",
+		"home_tag":"首页推荐",
 		"borrow_info": [
 			{
 				"real_version": {
@@ -6977,6 +6982,7 @@
 		"main_img": "mainImg/ren_sheng_zhuan_gui_chu.jpg",
 		"content": "本书记录了一个神奇的教育过程。小松遇上曾老师的那年，15岁，在私立学校读书，最大的爱好是：睡觉。到曾老师身边第9天夜里，他痛哭流涕地忏悔过去虚度时光。在曾老师的引导下，第一年，他阅读了《瓦尔登湖》《存在与自由》《沉思录》，数学能力从小学三年级追到初三水平；两年后，他参加美国的冬令营，发现自己在同龄人中，阅读、独立思维、见闻、分析能力等名列前茅；三年中，他学习了基础课程、钢琴、羽毛球、诗歌、哲学、教育，还承包了老师家的全部水电工作。三年后，他去英国留学，立志心理学。",
 		"classification": "教育类",
+		"home_tag":"首页推荐",
 		"borrow_info": [
 			{
 				"real_version": {
@@ -7031,6 +7037,7 @@
 		"main_img": "mainImg/zhe_yi_sheng_，_zhi_shao_dang_yi_ci_sha_gua.jpg",
 		"content": "本书记录了木村先生挑战无农药苹果的前后经过，内容包括：弱不禁风的现代苹果、朝着梦想一路狂奔的傻劲、为了开拖拉机入赘农家、改变一生的机缘等。",
 		"classification": "教育类",
+		"home_tag":"人生百态",
 		"borrow_info": [
 			{
 				"real_version": {
@@ -7216,6 +7223,7 @@
 		"main_img": "mainImg/de_mi_an.jpg",
 		"content": "本书讲述了少年辛克莱寻找自我的艰辛历程。出身并成长于富足家庭的辛克莱，因为自己的一个谎言陷入了无休止的纠缠之中。后来，一个名叫德米安的少年出现，给他带来了光明，从此他开始走上孤独寻找自我的路。之后德米安以不同的身份和面目出现，在辛克莱每一次彷徨之时，为辛克莱指出前行的方向。",
 		"classification": "小说类",
+		"home_tag":"成长品读",
 		"borrow_info": [
 			{
 				"real_version": {
@@ -10674,6 +10682,7 @@
 		"main_img": "mainImg/wo_yu_di_tan.jpg",
 		"content": "本书作者用生动优美的语言探索关于生命的命题，其中包括《我与地坛》、《诚实与善思》、《看不见而信》、《上帝的寓言》、《乐观的根据》、《没有生活》等随笔作品。",
 		"classification": "散文类",
+		"home_tag":"人生百态",
 		"borrow_info": [
 			{
 				"real_version": {
